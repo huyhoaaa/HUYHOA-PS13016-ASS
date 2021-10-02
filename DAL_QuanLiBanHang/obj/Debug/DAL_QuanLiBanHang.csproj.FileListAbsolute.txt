@@ -1,0 +1,9 @@
+D:\Học Tập\SOF205-DuAnMau\HUYHOA-PS13016-ASS\DAL_QuanLiBanHang\bin\Debug\DAL_QuanLiBanHang.dll
+D:\Học Tập\SOF205-DuAnMau\HUYHOA-PS13016-ASS\DAL_QuanLiBanHang\bin\Debug\DAL_QuanLiBanHang.pdb
+D:\Học Tập\SOF205-DuAnMau\HUYHOA-PS13016-ASS\DAL_QuanLiBanHang\bin\Debug\DTO_QuanLiBanHang.dll
+D:\Học Tập\SOF205-DuAnMau\HUYHOA-PS13016-ASS\DAL_QuanLiBanHang\bin\Debug\DTO_QuanLiBanHang.pdb
+D:\Học Tập\SOF205-DuAnMau\HUYHOA-PS13016-ASS\DAL_QuanLiBanHang\obj\Debug\DAL_QuanLiBanHang.csprojAssemblyReference.cache
+D:\Học Tập\SOF205-DuAnMau\HUYHOA-PS13016-ASS\DAL_QuanLiBanHang\obj\Debug\DAL_QuanLiBanHang.csproj.CoreCompileInputs.cache
+D:\Học Tập\SOF205-DuAnMau\HUYHOA-PS13016-ASS\DAL_QuanLiBanHang\obj\Debug\DAL_QuanLiBanHang.csproj.CopyComplete
+D:\Học Tập\SOF205-DuAnMau\HUYHOA-PS13016-ASS\DAL_QuanLiBanHang\obj\Debug\DAL_QuanLiBanHang.dll
+D:\Học Tập\SOF205-DuAnMau\HUYHOA-PS13016-ASS\DAL_QuanLiBanHang\obj\Debug\DAL_QuanLiBanHang.pdb

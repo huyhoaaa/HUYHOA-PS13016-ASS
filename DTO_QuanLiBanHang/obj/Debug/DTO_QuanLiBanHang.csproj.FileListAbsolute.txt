@@ -1,0 +1,6 @@
+D:\Học Tập\SOF205-DuAnMau\HUYHOA-PS13016-ASS\DTO_QuanLiBanHang\bin\Debug\DTO_QuanLiBanHang.dll
+D:\Học Tập\SOF205-DuAnMau\HUYHOA-PS13016-ASS\DTO_QuanLiBanHang\bin\Debug\DTO_QuanLiBanHang.pdb
+D:\Học Tập\SOF205-DuAnMau\HUYHOA-PS13016-ASS\DTO_QuanLiBanHang\obj\Debug\DTO_QuanLiBanHang.csprojAssemblyReference.cache
+D:\Học Tập\SOF205-DuAnMau\HUYHOA-PS13016-ASS\DTO_QuanLiBanHang\obj\Debug\DTO_QuanLiBanHang.csproj.CoreCompileInputs.cache
+D:\Học Tập\SOF205-DuAnMau\HUYHOA-PS13016-ASS\DTO_QuanLiBanHang\obj\Debug\DTO_QuanLiBanHang.dll
+D:\Học Tập\SOF205-DuAnMau\HUYHOA-PS13016-ASS\DTO_QuanLiBanHang\obj\Debug\DTO_QuanLiBanHang.pdb
